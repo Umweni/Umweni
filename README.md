@@ -57,13 +57,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umweni&layout=compact&theme=nightowl&hide_border=true&langs_count=10" width="60%" />
 
-</div>
+<!-- </div>
 
 ---
 
 ### 📌 Featured Projects
 
-<div align="center">
+<div align="center"> 
 
 <a href="https://github.com/Umweni/repo-one">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umweni&repo=repo-one&theme=nightowl&hide_border=true" />
@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umweni&repo=repo-two&theme=nightowl&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
 <!-- 🔁 Replace repo-one / repo-two above with your actual repo names to pin your real projects -->
 
